@@ -2,8 +2,8 @@ Privacy Policy
 ----------------
 
 ### Introduction  
-Our privacy policy will help you understand what information we collect at سورة الكهف بصوت اسلام صبحي (com.yahyaabunada.cahf)\, and what choices you have.
-*[Zaynrix]* built the *[سورة الكهف بصوت اسلام صبحي (com.yahyaabunada.cahf)]* app as a free app. This SERVICE is provided by سورة الكهف بصوت اسلام صبحي (com.yahyaabunada.cahf) at no cost and is intended for use as is.
+Our privacy policy will help you understand what information we collect at سورة الكهف بصوت اسلام صبحي (com.qurann.cahff)\, and what choices you have.
+*[Tec Valley]* built the *[سورة الكهف بصوت اسلام صبحي (com.qurann.cahff)]* app as a free app. This SERVICE is provided by سورة الكهف بصوت اسلام صبحي (com.qurann.cahff) at no cost and is intended for use as is.
 If you choose to use our Service, then you agree to the collection and use of information in  relation with this policy. The Personal Information that we collect are used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.  
 The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible in our website, unless otherwise  defined in this Privacy Policy.
 
@@ -42,5 +42,4 @@ We may update our Privacy Policy from time to time. Thus, you are advised to rev
 
 ### Contact Us  
 If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us.  
-Contact Information:  
-Email: yahya.m.abunada@gmail.com
+Contact Information:  uimuxy@gmail.com
